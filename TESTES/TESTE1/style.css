@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.botao {
+    background-color: transparent;
+    color: blue;
+    padding: 15px 32px;
+    font-size: 16px;
+    border: 2px solid blue;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.botao:hover {
+    background-color: blue;
+    color: white;
+}
